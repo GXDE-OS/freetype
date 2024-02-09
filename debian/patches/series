@@ -1,0 +1,7 @@
+enable-gxvalid-otvalid.patch
+enable-subpixel-rendering.patch
+no-web-fonts.patch
+hide-donations-information.patch
+CVE-2022-31782.patch
+fix-wild-free-svg.patch
+hardening.patch
